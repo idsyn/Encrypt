@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\发布文件\des加密解密</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HpApi.dll">
+      <publishTime>10/22/2014 11:43:17</publishTime>
+    </File>
+    <File Include="bin/WebMd5.dll">
+      <publishTime>04/11/2015 14:42:53</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>04/09/2015 14:00:43</publishTime>
+    </File>
+    <File Include="Test.aspx">
+      <publishTime>04/10/2015 20:21:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/09/2015 14:03:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
